@@ -99,6 +99,20 @@ form button {
 input:focus textarea:focus {
     outline-color: #182c61;
 }
+h3 {
+    text-align: center;
+}
+.redes-sociais {
+    display: flex;
+    padding: 0;
+}
+.redes-sociais img {
+    width: 30px;
+    margin: 10px;
+}
+.redes-sociais li {
+    display: inline;
+}
 footer {
     text-align: center;
     background-color: #000000;
